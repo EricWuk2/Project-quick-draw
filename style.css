@@ -1,0 +1,20 @@
+
+body{
+    background-color: salmon;
+}
+
+#score{
+    font-size: 45px;
+    margin-left: 50px;
+    float:left;
+}
+
+#time{
+    font-size: 45px;
+    float:right;
+    margin-right: 50px;
+}
+
+#name {
+    color:lightcyan;
+}
